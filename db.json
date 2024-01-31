@@ -1,0 +1,109 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Alan",
+      "email": "alan@email.com",
+      "profilePicture": "https://media.licdn.com/dms/image/D5603AQFGh6LCeDFqCw/profile-displayphoto-shrink_800_800/0/1681310678292?e=1712188800&v=beta&t=HLpDbcNQ05kxJ6poaEPR6odWBgL7Bpkn-rAXve7i_Jo"
+    },
+    { "id": 2, "name": "Julio", "email": "julio@email.com" },
+    { "id": 3, "name": "Brenda", "email": "brenda@email.com" }
+  ],
+  "characters": [
+    {
+      "id": 1,
+      "name": "Homem-Aranha",
+      "description": "Após ser mordido por uma aranha radioativa, Peter Parker se torna o amigo da vizinhança, o Homem-Aranha.",
+      "filmAppearences": [
+        "Vingadores - Era de Ultron",
+        "Capitão América - Guerra Civil",
+        "Vingadores - Guerra Infinita",
+        "Vingadores - Ultimato ",
+        "WandaVision"
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/AlanDorneles/images/main/spider-man.png",
+      "rating": 5
+    },
+    {
+      "id": 2,
+      "name": "Wanda Maximoff",
+      "description": "Wanda Maximoff foi sequestrada da Sérvia e trazida para a Montanha Wundagore, base do Alto Evolucionário. Durante anos, ela e seu irmão gêmeo, Pietro, acreditavam que eram filhos de um casal de ciganos.",
+      "filmAppearences": [
+        "Vingadores - Era de Ultron",
+        "Capitão América - Guerra Civil",
+        "Vingadores - Guerra Infinita",
+        "Vingadores - Ultimato ",
+        "WandaVision"
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/AlanDorneles/images/main/wanda.png",
+      "rating": 4.3
+    },
+    {
+      "id": 3,
+      "name": "Thanos",
+      "description": "A lua Titã era governada por Mentor (A'Lars), quando então reinava paz e tecnologia. Mentor tinha dois filhos: Eros e Thanos.  Ao contrário do irmão, Thanos, era bem mais poderoso e almejava ainda mais.",
+      "filmAppearences": [
+        "Vingadores - Era de Ultron",
+        "Capitão América - Guerra Civil",
+        "Vingadores - Guerra Infinita",
+        "Vingadores - Ultimato ",
+        "WandaVision"
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/AlanDorneles/images/main/thanos.png",
+      "rating": 4.7
+    },
+    {
+      "id": 4,
+      "name": "Hulk",
+      "description": "Na história original dos quadrinhos, o Hulk é um selvagem e poderoso alter ego do Dr. Robert Bruce Banner, um cientista que foi atingido por raios gama enquanto salvava um adolescente durante o teste militar.",
+      "filmAppearences": [
+        "Vingadores - Era de Ultron",
+        "Capitão América - Guerra Civil",
+        "Vingadores - Guerra Infinita",
+        "Vingadores - Ultimato ",
+        "WandaVision"
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/AlanDorneles/images/main/hulk.png",
+      "rating": 4.9
+    }
+  ],
+  "movies": [
+    {
+      "id": 1,
+      "name": "Capitão América",
+      "year": 2012,
+      "description": "Em Capitão América: O Primeiro Vingador, conhecemos a história de Steve Rogers (Chris Evans) e como ele se tornou o melhor soldado do mundo. ",
+      "path": "https://raw.githubusercontent.com/AlanDorneles/images/main/captain_america.png",
+      "rating": 4.5
+      
+     
+    },
+    {
+      "id": 2,
+      "name": "Homem de Ferro",
+      "year": 2011,
+      "description": "Tony Stark (Robert Downey Jr.) é um industrial bilionário, que também é um brilhante inventor, ao ser sequestrado, ele é obrigado a construir uma arma devastadora, mas ao invés disso, cria uma armadura capaz de mudar a história. ",
+      "path": "https://raw.githubusercontent.com/AlanDorneles/images/main/iron_man.png",
+      "rating": 5
+      
+    },
+    {
+      "id": 3,
+      "name": "Capitã Marvel",
+      "year": 2017,
+      "description": "Capitã Marvel, parte do exército de elite dos Kree, uma raça alienígena, encontra-se no meio de uma batalha entre seu povo e os Skrulls.  ",
+      "path": "https://raw.githubusercontent.com/AlanDorneles/images/main/capita_marvel.png",
+      "rating": 4
+      
+    },
+    {
+        "id": 3,
+        "name": "Capitã Marvel",
+        "year": 2017,
+        "description": "Capitã Marvel, parte do exército de elite dos Kree, uma raça alienígena, encontra-se no meio de uma batalha entre seu povo e os Skrulls.  ",
+        "path": "https://raw.githubusercontent.com/AlanDorneles/images/main/capita_marvel.png",
+        "rating": 4
+       
+      }
+  ]
+}
